@@ -4,7 +4,7 @@ useMath: true
 Welcome! I intend to share here some interesting ideas, papers and updates in machine learning, statistics and mathematics. 
 
 ## Short Bio
-I am presently working as a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning(RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are anomaly detection, ad-impression predictions, attribution, causal inference and customer retention. 
+I am presently working as a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning(RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are ad-impression predictions, attribution, anomaly detection, causal inference and personalization in digital markeitng.  
 
 Previously, I obtained a PhD in Mathematics. Specifically, I worked in Index theory(out of Atiyah-Singer Index theorem [Wiki](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)) which, briefly speaking, explores the interplay between analysis and topology. In addition, I have also worked in Riemannian geometry and smooth dynamical systems. 
 
