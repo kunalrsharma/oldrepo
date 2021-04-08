@@ -20,7 +20,7 @@ In general, I maintain a strong interest in problems involving rich geometry. In
 - Bounding topological entropy of geodesic flows of $$C^{(1, \alpha)}$$ Riemannian metric, [pdf](https://drive.google.com/file/d/1Lbmt6jq3KHRCDvxXER8QVZTA7I2BBylo/view?usp=sharing)
 
 ### Research Interest
-Machine learing/Deep learning on graphs(GNN,GCN etc) and its applications to Knowledge graphs, Anomaly detection and Spectral techniques. 
+Machine learning/Deep learning on graphs(GNN,GCN etc) and its applications to Knowledge graphs, Anomaly detection and Spectral techniques. 
 
 Feel free to reach out to me if these topics interest you and would like to explore a problem together.
 
