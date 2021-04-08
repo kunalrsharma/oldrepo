@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 Welcome! I intend to share here some interesting ideas, papers and updates in machine learning, statistics and mathematics. 
@@ -10,4 +10,4 @@ I am presently working as a Data Scientist wherein I build and deploy machine le
     In general, I maintain a strong interest in problems involving rich geometry. In machine learning, its fascinating to see applications of geometric techniques in areas of Topological data analysis, Geometric deep learning(Graph Convolution Networks, manifold learning) and and Knowledge graphs. 
 
 ### Expository writings
-- [Graph Neural Networks](/gnn/)
+- [Graph Neural Networks](/Graph-Neural-Networks.md)
