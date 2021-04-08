@@ -11,8 +11,8 @@ Previously, I obtained a PhD in Mathematics. Specifically, I worked in Index the
 In general, I maintain a strong interest in problems involving rich geometry. In machine learning, its fascinating to see applications of geometric techniques in areas of Topological data analysis, Geometric deep learning(Graph Convolution Networks, manifold learning) and and Knowledge graphs. 
 
 ## Contact
-Email: k{lastname}.math@gmail.com
-[LinkedIn](https://www.linkedin.com/in/kunalsharma13/) 
+- Email: k{lastname}.math@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kunalsharma13/) 
 
 ## Publications & Research interests
 - Stochastic approach to anomaly detection in large networks with edge attributes, Working. 
