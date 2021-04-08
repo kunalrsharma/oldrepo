@@ -12,8 +12,8 @@ In general, I maintain a strong interest in problems involving rich geometry. In
 
 ## Publications & Research interests:
 - Stochastic approach to anomaly detection in large networks with edge attributes, Working. 
-- Adiabatic limit of Calderon projector on manifold with cylindrical end, [pdf] (https://drive.google.com/file/d/1_rVddyiNyt9xT8dd3h7oyaj9SK0t_qEH/view?usp=sharing)
-- Bounding topological entropy of geodesic flows of $C^{(1, \alpha)}$ Riemannian metric, [pdf] (https://drive.google.com/file/d/1Lbmt6jq3KHRCDvxXER8QVZTA7I2BBylo/view?usp=sharing)
+- Adiabatic limit of Calderon projector on manifold with cylindrical end, [pdf](https://drive.google.com/file/d/1_rVddyiNyt9xT8dd3h7oyaj9SK0t_qEH/view?usp=sharing)
+- Bounding topological entropy of geodesic flows of $$C^{(1, \alpha)}$$ Riemannian metric, [pdf](https://drive.google.com/file/d/1Lbmt6jq3KHRCDvxXER8QVZTA7I2BBylo/view?usp=sharing)
 
 ### Research Interest:
 Machine learing/Deep learning on graphs(GNN,GCN etc) and its applications to Knowledge graphs, Anomaly detection and Spectral techniques. 
