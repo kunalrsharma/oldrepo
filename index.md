@@ -5,7 +5,7 @@ useMath: true
 ## Short Bio
 <img src ="fullsizeoutput_6de.jpeg" width=400> 
 
-Presently working as a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning (RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are ad-impression predictions, attribution, anomaly detection, causal inference and personalization in digital marketing.  
+I am a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning (RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are ad-impression predictions, attribution, anomaly detection, causal inference and personalization in digital marketing.  
 
 Previously, I obtained a PhD in Mathematics. Specifically, I worked in Index theory (out of [Atiyah-Singer Index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)) which, briefly speaking, explores the interplay between analysis and topology. An excellent example of this relationship is [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem). In addition, I have also worked in Riemannian geometry and smooth dynamical systems. Both of the areas involve solving (class of)partial differential equations over a space with rich geometry. 
 
