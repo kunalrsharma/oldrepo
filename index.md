@@ -14,6 +14,7 @@ In general, I maintain a strong interest in problems involving rich geometry. In
 ## Contact
 - Email: k{mylastname}.math@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/kunalsharma13/) 
+- [GitHub](https://github.com/kunalrsharma/)
 
 ## Publications & Research interests
 - Stochastic approach to anomaly detection in large networks with edge attributes, Working. 
