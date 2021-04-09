@@ -1,6 +1,6 @@
 ---
 useMath: true
-layout: post
+layout: page
 ---
 Welcome! I intend to share here some interesting ideas, papers and updates in machine learning, statistics and mathematics. 
 
