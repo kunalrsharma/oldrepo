@@ -28,3 +28,4 @@ Feel free to reach out to me if these topics interest you and would like to expl
 
 ### Expository writings
 - [Graph Neural Networks](/Graph-Neural-Networks.md)
+- Short note on Topology & applications to Robotics: [Topological analysis & Robotics](https://drive.google.com/file/d/1-P6EM6pJ-9WikEh7FXdLtDUC7U9JKKpQ/view?usp=sharing) 
