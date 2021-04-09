@@ -5,6 +5,4 @@ useMath: True
 ---
 
 ## Graph Convolution Networks
-{% raw %}
-$$\alpha \leq \beta$$
-{% endraw %}
+Let \( \alpha \leq \beta \)
