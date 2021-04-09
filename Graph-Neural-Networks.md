@@ -6,4 +6,4 @@ katex: True
 ---
 
 ## Graph Convolution Networks
-$\alpha \leq \beta$
+$$\alpha \leq \beta$$
