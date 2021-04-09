@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Graph Neural Networks
 permalink: /gnn/
 useMath: True
