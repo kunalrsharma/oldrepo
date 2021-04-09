@@ -3,7 +3,7 @@ useMath: true
 ---
 
 ## Short Bio
-<img src ="IMG_2120.JPG" width=400> 
+<img src ="IMG_2120.JPG" width=200> 
 
 Presently working as a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning (RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are ad-impression predictions, attribution, anomaly detection, causal inference and personalization in digital marketing.  
 
