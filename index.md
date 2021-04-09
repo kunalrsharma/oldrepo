@@ -1,16 +1,15 @@
 ---
 useMath: true
 ---
-Welcome! I intend to share here some interesting ideas, papers and updates in machine learning, statistics and mathematics. 
 
 ## Short Bio
 <img src ="fullsizeoutput_6d8.jpeg" width=400> 
 
 Presently working as a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning (RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are ad-impression predictions, attribution, anomaly detection, causal inference and personalization in digital marketing.  
 
-Previously, I obtained a PhD in Mathematics. Specifically, I worked in Index theory(out of Atiyah-Singer Index theorem [Wiki](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)) which, briefly speaking, explores the interplay between analysis and topology. An excellent example of this relationship is [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem). In addition, I have also worked in Riemannian geometry and smooth dynamical systems. Both of the areas involve solving (class of)partial differential equations over a space with rich geometry. 
+Previously, I obtained a PhD in Mathematics. Specifically, I worked in Index theory (out of [Atiyah-Singer Index theorem] (https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)) which, briefly speaking, explores the interplay between analysis and topology. An excellent example of this relationship is [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem). In addition, I have also worked in Riemannian geometry and smooth dynamical systems. Both of the areas involve solving (class of)partial differential equations over a space with rich geometry. 
 
-In general, I maintain a strong interest in problems involving rich geometry. In machine learning, its fascinating to see applications of geometric techniques in areas of Topological data analysis, Geometric deep learning(Graph Convolution Networks, manifold learning) and and Knowledge graphs. 
+In general, I maintain a strong interest in problems involving rich geometry. In machine learning, its fascinating to see applications of geometric techniques in areas of Topological data analysis, Geometric deep learning (Graph Convolution Networks, manifold learning) and and Knowledge graphs. 
 
 ## Contact
 - Email: k{lastname}.math@gmail.com
@@ -22,7 +21,7 @@ In general, I maintain a strong interest in problems involving rich geometry. In
 - [Bounding topological entropy of geodesic flows of $C^{(1, \alpha)}$ Riemannian metric](https://drive.google.com/file/d/1Lbmt6jq3KHRCDvxXER8QVZTA7I2BBylo/view?usp=sharing)
 
 ### Research Interests
-Machine learning/Deep learning on graphs(GNN,GCN etc) and its applications to Knowledge graphs, Anomaly detection and Spectral techniques. 
+Machine learning/Deep learning on graphs (GNN,GCN etc) and its applications to Knowledge graphs, Anomaly detection and Spectral techniques. 
 
 Feel free to reach out to me if these topics interest you and would like to explore a problem together.
 
