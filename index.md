@@ -28,4 +28,4 @@ Feel free to reach out to me if these topics interest you and would like to expl
 
 ### Expository writings
 - [Graph Neural Networks](/Graph-Neural-Networks.md)
-- Short note on Topology & applications to Robotics: [Topological analysis & Robotics](https://drive.google.com/file/d/1-P6EM6pJ-9WikEh7FXdLtDUC7U9JKKpQ/view?usp=sharing) 
+- A short note on interesting Topological results, and outline of ideas in Robotics and statistis: [Topological analysis & Robotics](https://drive.google.com/file/d/1-P6EM6pJ-9WikEh7FXdLtDUC7U9JKKpQ/view?usp=sharing) The ideas on Robotics grew out my interest in studying configuration spaces of "mechanical" or "factory" robots. Working jointly with [Paul Loya](http://people.math.binghamton.edu/loya/) we found new examples of configuration spaces with rich topology. However, in favor of machine learning techniques this project wasn't taken much further. Nevertheless, robotics continues to benefit greatly by borrowing ideas from Topology. 
