@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Graph Neural Networks
 permalink: /gnn/
 katex: True
