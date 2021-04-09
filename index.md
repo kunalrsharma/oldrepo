@@ -4,7 +4,7 @@ useMath: true
 Welcome! I intend to share here some interesting ideas, papers and updates in machine learning, statistics and mathematics. 
 
 ## Short Bio
-<img src ="fullsizeoutput_6d8.jpeg"> 
+<img src ="fullsizeoutput_6d8.jpeg" width=200> 
 
 I am presently working as a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning(RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are ad-impression predictions, attribution, anomaly detection, causal inference and personalization in digital markeitng.  
 
