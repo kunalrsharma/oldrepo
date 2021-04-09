@@ -7,4 +7,4 @@ useMath: True
 ## Graph Convolution Networks
 {% raw %}
 $$\alpha \leq \beta$$
-{% endraw %}}
+{% endraw %}
