@@ -9,9 +9,7 @@
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
     <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
-    {%- if site.data.options.mathjax -%}
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML"></script>
-    {%- endif -%}
 
 </head>
 <body>
