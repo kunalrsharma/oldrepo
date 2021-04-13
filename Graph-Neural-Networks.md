@@ -1,8 +1,8 @@
 ---
+layout: post
 title: Graph Neural Networks
 permalink: /gnn/
 mathjax: true
-layout: post
 ---
 
 ## Graph Convolution Networks
