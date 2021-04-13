@@ -1,5 +1,5 @@
 ---
-useMath: true
+mathjax: true
 ---
 
 ## Short Bio
