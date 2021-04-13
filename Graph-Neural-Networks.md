@@ -4,4 +4,4 @@ permalink: /gnn/
 ---
 
 ## Graph Convolution Networks
-Let \( \alpha \leq \beta \)
+Let $$( \alpha \leq \beta \) $$

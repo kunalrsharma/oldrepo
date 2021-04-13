@@ -27,5 +27,5 @@ Machine learning/Deep learning on graphs (GNN,GCN etc) and its applications to K
 Feel free to reach out to me if these topics interest you and would like to explore a problem together.
 
 ## Expository writings
-<!-- - [Graph Neural Networks](Graph-Neural-Networks.md) -->
+- [Graph Neural Networks](Graph-Neural-Networks.md) 
 - [Topological analysis & Robotics](https://drive.google.com/file/d/1-P6EM6pJ-9WikEh7FXdLtDUC7U9JKKpQ/view?usp=sharing) This is a short note on interesting topological results, and outline of ideas in Robotics:The ideas on Robotics grew out my interest in studying the topology of configuration spaces of "mechanical" or "factory" robots. Working jointly with [Paul Loya](http://people.math.binghamton.edu/loya/) we found new examples of configuration spaces with rich topology. However, this project wasn't taken much further due to my developing interest in machine learning. Nevertheless, robotics continues to benefit greatly by borrowing ideas from Topology. 
