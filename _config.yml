@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Kunal Sharma
 description: Machine learning, Statistics & Mathematics
-baseurl: ""
-url: "https://kunalrsharma.github.io"
+baseurl: /kunalrsharma.github.io
