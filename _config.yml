@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Kunal Sharma
 description: Machine learning, Statistics & Mathematics
+baseurl: ""
+url: "https://kunalrsharma.github.io"
