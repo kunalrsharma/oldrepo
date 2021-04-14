@@ -1,4 +1,3 @@
-theme: jekyll-theme-cayman
 title: Kunal Sharma
 description: Machine learning, Statistics & Mathematics
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -8,3 +7,4 @@ post:
 page:
   template: _page.txt
   extension: md
+theme: jekyll-theme-cayman
